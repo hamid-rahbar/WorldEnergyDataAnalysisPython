@@ -220,4 +220,13 @@ The objective of this analysis is to answer the following questions: <br>
     </span>  
 </div>
 
-<a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.8.1.1.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.8.1.1.jpg"></a> <br>
+<a id="Overview"></a>
+<h2>   
+    <font color = blue>
+        <span>
+            8. World Energy Overview
+        </span>   
+    </font>    
+</h2>
+
+<a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.8.1.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.8.1.jpg"></a> <br>
