@@ -136,3 +136,29 @@ The objective of this analysis is to answer the following questions: <br>
     </span>  
 </div>
 </p>
+
+<a id="Modeling"></a>
+<h2>   
+    <font color = blue>
+        <span>
+            7. Data Modeling and Analysis
+        </span>   
+    </font>    
+</h2>
+
+<a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.1.1.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.1.1.jpg"></a> <br>
+
+<a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.1.2.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.1.2.jpg"></a> <br>
+
+<a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.1.3.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.1.3.jpg"></a> <br>
+
+<a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.1.4.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.1.4.jpg"></a> <br>
+
+<div class="alert alert-block alert-info">
+    <span>
+        ${\color{blue}Insights:}$<br>
+            1. Canada has a high energy and electricity consumption per capita compared to other G7 countries.<br>
+            2. Electricity is widely considered to be a clean energy source due to its low emissions and pollution levels. As the world shifts towards more sustainable energy solutions, the use of electricity has become increasingly popular. In particular, among the G7 countries, the share of electricity in their total energy consumption has been on the rise, especially in France and Japan. These countries have made significant investments in renewable energy sources such as wind, solar, and hydro power, which has helped increase the share of electricity in their energy mix. This trend towards cleaner energy sources is expected to continue as countries work towards reducing their carbon footprint and meeting international climate goals.<br>
+            3. Italy is among the largest importers of electricity among the G7 countries, relying heavily on foreign sources to meet its energy needs. On the other hand, France, Canada, and Germany are significant exporters of electricity, with France ranking as the top exporter among the G7 countries. These countries have established themselves as major players in the global energy market, leveraging their abundant natural resources, and modern energy infrastructure. However, Japan stands out as a unique case among the G7 countries, with no imports or exports of electricity. This is due to the country's focus on energy self-sufficiency, which is achieved through a combination of energy efficiency measures and investments in its own energy infrastructure, including nuclear power and renewable energy sources. These diverse energy dynamics among the G7 countries highlight the importance of energy trade and cooperation in the global energy market. <br>
+    </span>  
+</div>
