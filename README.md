@@ -197,10 +197,27 @@ The objective of this analysis is to answer the following questions: <br>
         ${\color{blue}Insights:}$<br>
             1. The energy mix for electricity production among the G7 countries varies greatly, with each country having its own unique approach to balancing its energy sources. <br>
             2. The United States has long been reliant on fossil fuels for electricity production, but has started to invest in renewable energy sources in recent years. <br>
-            3. Meanwhile, Canada primarily relies on renewable energy sources for its electricity production.<br><br>
+            3. Meanwhile, Canada primarily relies on renewable energy sources for its electricity production.<br>
             4. The United Kingdom, Germany, and Italy have been successful in increasing their investment in renewable energy, resulting in a balance between electricity production from fossil and renewable sources.<br>
-            5. France primarily relies on nuclear power for electricity production.<br><br>
+            5. France primarily relies on nuclear power for electricity production.<br>
             6. Japan continues to rely heavily on fossil fuels, with an increase in the use of fossil fuels for electricity production following a reduction in the use of nuclear energy. <br>
             7. These differences reflect the diverse energy needs, resources, and priorities of the G7 countries, and highlight the importance of developing a flexible and diverse energy mix that can meet the needs of different countries and regions.<br>
     </span>  
 </div>
+
+<a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.6.1.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.6.1.jpg"></a> <br>
+
+<div class="alert alert-block alert-info">
+    <span>
+        ${\color{blue}Insights:}$<br>
+            1. When it comes to renewable energy sources, each of the G7 countries has its own strengths and areas of focus. <br>
+            2. The United States primarily relies on hydropower for its renewable energy mix, with a significant increase in solar energy in recent years. <br><br>
+            3. Canada's renewable energy mix is primarily based on hydropower, with a smaller contribution from wind energy. <br>
+            4. The United Kingdom and Germany, on the other hand, are mostly reliant on wind energy. France is primarily based on hydropower, but has seen an increase in wind energy as well. <br>
+            5. Italy is primarily based on hydropower, but has also seen a significant increase in solar energy. <br><br>
+            6. Japan is largely based on hydropower, but has also experienced a significant increase in solar energy in recent years. <br>
+            7. These differences reflect the diverse energy needs, resources, and priorities of each of the G7 countries, and highlight the importance of developing a flexible and diverse energy mix that can meet the needs of different countries and regions.<br>
+    </span>  
+</div>
+
+<a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.8.1.1.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.8.1.1.jpg"></a> <br>
