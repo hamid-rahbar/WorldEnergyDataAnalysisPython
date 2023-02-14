@@ -1,5 +1,13 @@
 # World Energy Data Analysis (1900-2020)
-### Python Jupiter Notebook
+### <a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/World.Energy.Data.Analysis.Non.Interactive.ipynb">Python Code in Jupiter Notebook</a>
+In this project, I utilize different Python packages, including:
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Geopandas
+- Folium
+- Ipywidgets
 
 <h2>   
     <font color = blue >
