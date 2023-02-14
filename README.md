@@ -113,5 +113,26 @@ The objective of this analysis is to answer the following questions: <br>
         </span>   
     </font>    
 </h2>
+  
+
+<a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.6.1.1.Jpg">Correlation Matrix 1<img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.6.1.1.Jpg"></a> <br>
+
+<a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.6.1.2.Jpg">Correlation Matrix 2<img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.6.1.2.Jpg"></a> <br>
+
+<a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.6.1.3.jpg">Scatter Plot<img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.6.1.3.jpg"></a> <br>
+ 
     
-<a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.6.1.1.Jpg">Correlation Matrix 1<img align="left" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.6.1.1.Jpg"></a>
+<p>    
+<div class="alert alert-block alert-info">
+    <span>
+        ${\color{blue}Insights based on Correlation:}$<br>
+            1. According to the correlation matrix, the primary energy consumption in G7 countries is primarily electricity:<br>
+            &nbsp&nbsp&nbsp&nbsp * There is a strong correlation between energy consumption and both electricity demand and generation.<br>
+            2. It is noteworthy that even though electricity constitutes the majority of the primary energy consumption in G7 countries, they do not necessarily prioritize generating it themselves to meet demand:<br>     
+            &nbsp&nbsp&nbsp&nbsp * The proportion of electricity in total energy consumption is not necessarily correlated to electricity generation.<br>
+            3. The G7 prefers electricity import rather than generating it from Nuclear source: <br>
+             &nbsp&nbsp&nbsp&nbsp * The nuclear generation is negatively correlated with the electricity import.<br>
+            3. Further investigation is required to gain deeper insights into these observations, which will be conducted in subsequent sections of the report. <br>
+    </span>  
+</div>
+</p>
